@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- - 🌱 Atualmente estou aprendendo JavaScript 
+ - 🌱 Atualmente estou aprendendo JavaScript e Java 
  - 🧠 Html5 e Css3
  - 📗 Estudante em Análise e desenvolvimento de sistemas (Uninassau)
   ##
